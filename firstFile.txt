@@ -6,5 +6,7 @@ Line 5 updated
 Line 6 updated
 Line 7 updated1
 Line 8 updated1
+Line 7
+Line 8
 Line 9
 Line 10
